@@ -1,3 +1,3 @@
 print 'good night'
 
-print 'good morning'
+print 'good mornin'
